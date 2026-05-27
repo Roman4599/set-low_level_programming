@@ -15,4 +15,6 @@ Function that prints 10 times the numbers from 0 to 14, followed by a new line.
 ## 6-print_line
 Function that draws a straight line in the terminal using the character '_'.
 If n is 0 or less, the function only prints a new line.
-
+## 7-print_diagonal
+Function that draws a diagonal line on the terminal using the character '\'.
+If n is 0 or less, the function only prints a new line.
