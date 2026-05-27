@@ -6,3 +6,6 @@ Function that swaps the values of two integers.
 
 ## 2-strlen
 Function that returns the length of a string.
+## 3-puts
+Function that prints a string, followed by a new line, to stdout.
+
