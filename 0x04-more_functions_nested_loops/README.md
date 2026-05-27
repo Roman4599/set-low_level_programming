@@ -18,6 +18,10 @@ If n is 0 or less, the function only prints a new line.
 ## 7-print_diagonal
 Function that draws a diagonal line on the terminal using the character '\'.
 If n is 0 or less, the function only prints a new line.
+## 8-print_square
+Function that prints a square using the character '#' followed by a new line.
+If size is 0 or less, the function only prints a new line.
+
 ## 9-fizz_buzz
 Program that prints numbers 1 to 100 with:
 - "Fizz" for multiples of 3
