@@ -28,3 +28,6 @@ Program that prints numbers 1 to 100 with:
 - "Buzz" for multiples of 5
 - "FizzBuzz" for multiples of both 3 and 5
 Numbers/words are separated by spaces, followed by a new line.
+## 10-print_triangle
+Function that prints a triangle using the character '#' followed by a new line.
+If size is 0 or less, the function only prints a new line.
