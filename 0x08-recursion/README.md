@@ -12,3 +12,4 @@ keep progressing toward it.
 - `3-factorial.c` - returns the factorial of a given number, using recursion
 - `4-pow_recursion.c` - returns the value of x raised to the power of y, using recursion
 - `5-sqrt_recursion.c` - returns the natural square root of a number, using recursion
+- `6-is_prime_number.c` - checks if an integer is a prime number, using recursion
