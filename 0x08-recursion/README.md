@@ -9,3 +9,4 @@ keep progressing toward it.
 - `0-puts_recursion.c` - prints a string, followed by a new line, using recursion
 - `1-print_rev_recursion.c` - prints a string in reverse, using recursion
 - `2-strlen_recursion.c` - returns the length of a string, using recursion
+- `3-factorial.c` - returns the factorial of a given number, using recursion
