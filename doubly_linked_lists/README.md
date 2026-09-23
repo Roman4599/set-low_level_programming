@@ -13,5 +13,4 @@ C project on doubly linked list manipulation.
 
 - Ubuntu 20.04 LTS
 - Compiled with `gcc -Wall -pedantic -Werror -Wextra -std=gnu89`
-- Betty style followed (kernel-style formatting: tabs, function braces on
-  their own line, control-statement braces on the same line)
+- Betty style checked (`betty 0-print_dlistint.c lists.h`)
